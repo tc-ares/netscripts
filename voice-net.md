@@ -4,9 +4,10 @@
 													
 THIS IS (CALL SIGN). THE TRAVIS COUNTY AMATEUR RADIO EMERGENCY SERVICE VOICE NET WILL OCCUR ON THIS FREQUENCY AT 1900 LOCAL TIME. ALL ARE ENCOURAGED TO JOIN THE NET AND CHECK IN. YOU DO NOT HAVE TO BE A MEMBER OF TCARES TO PARTICIPATE.
 
-
 > [!TIP]
 > Please be on frequency before the net to coordinate with your backup, and to perform signal checks.
+
+## Net Start
 
 IS THE FREQUENCY IN USE?
 
